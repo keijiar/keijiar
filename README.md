@@ -1,4 +1,4 @@
-Hi, I’m Keiji from Tokyo, Japan. Environmental Engineer and Human.
+Hi, I’m Keiji from Tokyo, Japan. Environmental Engineer & Human.
 
 I’m interested in Climate Change issues, Sustainability, Renewal Energy and AI.
 
