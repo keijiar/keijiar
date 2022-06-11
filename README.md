@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science & AI**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/keijiart/Portfolio)
+- 👨‍💻 All of my projects are available at [here](https://github.com/keijiart/Portfolio)
 
 - 💬 Ask me about **Climate Change, Carbon Flux and Environmental Data**
 
