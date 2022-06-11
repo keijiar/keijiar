@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Projects:</h3>
-(Fake News)[https://github.com/keijiart/Fake_News]
+[ABC](https://github.com/keijiart/Fake_News)
 
 
 <h3 align="left">Languages and Tools:</h3>
