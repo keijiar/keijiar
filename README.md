@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science & AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/keijiart/Portfolio](https://github.com/keijiart/Portfolio)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/keijiart/Portfolio)
 
 - 💬 Ask me about **Climate Change, Carbon Flux and Environmental Data**
 
@@ -14,8 +14,9 @@
 <a href="https://instagram.com/thinkaboutblu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thinkaboutblu" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Projects:</h3>
-[ABC](https://github.com/keijiart/Fake_News)
+<h3 align="left">Last Projects:</h3>
+
+- [Fake News Detection](https://github.com/keijiart/Fake_News)
 
 
 <h3 align="left">Languages and Tools:</h3>
