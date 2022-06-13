@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keiji Arostegui!</h1>
-<h3 align="center">Environmental Engineering: a passionate Environmental Data Scientist</h3>
+<h3 align="center">A Environmental Engineer passionate for Data Scientist</h3>
 
 - 🌱 I’m currently learning **Data Science & AI**
 
