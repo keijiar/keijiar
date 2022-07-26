@@ -17,6 +17,7 @@
 <h3 align="left">Last Projects:</h3>
 
 - [Fake News Detection](https://github.com/keijiart/Fake_News)
+- [Road Line Detection](https://github.com/keijiart/Road_Line_Detection)
 
 
 <h3 align="left">Languages and Tools:</h3>
