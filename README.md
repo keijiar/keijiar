@@ -18,6 +18,7 @@
 
 - [Fake News Detection](https://github.com/keijiart/Fake_News)
 - [Road Line Detection](https://github.com/keijiart/Road_Line_Detection)
+- [Color Detection](https://github.com/keijiart/Color_detection)
 
 
 <h3 align="left">Languages and Tools:</h3>
