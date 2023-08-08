@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keiji Arostegui!</h1>
 <h3 align="center">A Environmental Engineer passionate for Data Science</h3>
 
-- 🌱 I’m currently learning **Data Science & AI**
+- 🌱 I’m **Carbon Data Analyst**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/keijiart/Portfolio)
 
