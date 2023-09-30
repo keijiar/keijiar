@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keiji Arostegui!</h1>
-<h3 align="center">A Environmental Engineer passionate for Data Analysist</h3>
+<h3 align="center">A Environmental Engineer passionate for Data Analysis</h3>
 
 - 🌱 I’m **Carbon Data Analyst**
 
